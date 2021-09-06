@@ -133,3 +133,22 @@ footer {
   margin-top: 50px;
   text-align: center;
 }
+
+.btn-instagram {
+  background-color: deeppink;
+}
+
+.btn-youtube {
+  background-color: red;
+}
+
+.btn-email {
+  background-color: teal;
+}
+.btn-website {
+  background-color: #248000;
+}
+
+.btn-fb {
+  background-color: rgb(3, 43, 173);
+}
